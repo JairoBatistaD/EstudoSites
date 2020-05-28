@@ -1,0 +1,56 @@
+#logo1 img{
+	float:right;
+	}
+#logo2 img{
+float:right;
+background: linear-gradient(black,red);
+width: 300px;
+height: 100px;
+
+   
+}
+#geral{
+	border:2px solid gray;
+	padding: 0px;
+	
+}
+a{
+	text-decoration: none;
+	text-decoration-color: white;
+}
+
+body{
+    font-family: Verdana;
+    
+    
+}
+#logotipobandeira{
+    background-image: linear-gradient-left(rgb(3 78 162),rgb(3 78 162), white);
+}
+#parteazul{
+    background-image: linear-gradient(blue,blue,white, white);
+    
+    
+}
+
+#footer1{
+    text-align:left;
+    background-color: rgb(3 78 162);
+    color: white;
+    
+    
+}
+footer{
+    text-align: right ;
+    padding-bottom: 10px;
+}
+#divisa{
+    background-color: rgb(255 212 0);
+    height: 5px;
+    margin-top: 10px;
+    
+}
+
+#teste{
+    background-image: linear-gradient-left(rgb(3 78 162),black);
+}
